@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "Reaper Defense",
 	id: "mymod",
 	author: "nobody",
 	pointsName: "points",
